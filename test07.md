@@ -1,0 +1,2 @@
+I have created and used API Gateway using NGINX. 
+API Gateway is useful for exposing services via the internet, when a client visits the intended service, the client needs to know the IP of the service, with the API gateway, the client does not need to know the IP of the service, just need to know the IP of the API gateway and the API Gateway will forward to the destination IP service location.
