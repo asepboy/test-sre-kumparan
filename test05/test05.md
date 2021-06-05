@@ -11,4 +11,5 @@ Create a prometheus.yml configuration file to implement communication of all ser
 ![3](https://github.com/asepboy/test-sre-kumparan/blob/main/test05/test05-d.jpg)
 
 The result of all instances that are up means all instances that are connected to node-exporter and send log metrics to monitoring prometheus.
+
 ![4](https://github.com/asepboy/test-sre-kumparan/blob/main/test05/test05-b.jpg)
